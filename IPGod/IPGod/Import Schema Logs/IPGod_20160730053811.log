@@ -1,0 +1,80 @@
+7/30/2016 3:38:11 PM	This log contains information about the import schema operation into project 'IPGod' on computer 'SCOTT-HP-ENVY' by user 'scott'.
+7/30/2016 3:38:12 PM	Import of database schema has started.
+7/30/2016 3:38:16 PM	Gathering logins
+7/30/2016 3:39:39 PM	Gathering database options
+7/30/2016 3:39:39 PM	Gathering users
+7/30/2016 3:39:39 PM	Gathering roles
+7/30/2016 3:39:39 PM	Gathering application roles
+7/30/2016 3:39:39 PM	Gathering role memberships
+7/30/2016 3:39:39 PM	Gathering filegroups
+7/30/2016 3:39:39 PM	Gathering full-text catalogs
+7/30/2016 3:39:39 PM	Gathering assemblies
+7/30/2016 3:39:39 PM	Gathering certificates
+7/30/2016 3:39:39 PM	Gathering symmetric keys
+7/30/2016 3:39:39 PM	Gathering encrypted symmetric keys
+7/30/2016 3:39:39 PM	Gathering schemas
+7/30/2016 3:39:39 PM	Gathering XML schema collections
+7/30/2016 3:39:39 PM	Gathering user-defined data types
+7/30/2016 3:39:39 PM	Gathering user-defined types
+7/30/2016 3:39:39 PM	Gathering table types
+7/30/2016 3:39:39 PM	Gathering unique keys for table types
+7/30/2016 3:39:39 PM	Gathering primary keys for table types
+7/30/2016 3:39:39 PM	Gathering indexes for table types
+7/30/2016 3:39:39 PM	Gathering check constraints for table types
+7/30/2016 3:39:39 PM	Gathering default constraints for table types
+7/30/2016 3:39:40 PM	Gathering partition functions
+7/30/2016 3:39:40 PM	Gathering partition schemes
+7/30/2016 3:39:40 PM	Gathering functions
+7/30/2016 3:39:40 PM	Gathering encrypted functions
+7/30/2016 3:39:40 PM	Gathering aggregates
+7/30/2016 3:39:40 PM	Gathering procedures
+7/30/2016 3:39:40 PM	Gathering encrypted procedures
+7/30/2016 3:39:40 PM	Gathering tables
+7/30/2016 3:39:40 PM	Gathering primary keys
+7/30/2016 3:39:40 PM	Gathering unique constraints
+7/30/2016 3:39:40 PM	Gathering foreign keys
+7/30/2016 3:39:40 PM	Gathering default constraints
+7/30/2016 3:39:40 PM	Gathering check constraints
+7/30/2016 3:39:40 PM	Gathering views
+7/30/2016 3:39:40 PM	Gathering encrypted views
+7/30/2016 3:39:40 PM	Gathering indexes
+7/30/2016 3:39:40 PM	Gathering statistics
+7/30/2016 3:39:40 PM	Gathering full-text index stoplists
+7/30/2016 3:39:40 PM	Gathering search property lists
+7/30/2016 3:39:40 PM	Gathering search properties
+7/30/2016 3:39:40 PM	Gathering full-text indexes
+7/30/2016 3:39:40 PM	Gathering column store indexes
+7/30/2016 3:39:40 PM	Gathering spatial indexes
+7/30/2016 3:39:40 PM	Gathering XML indexes
+7/30/2016 3:39:40 PM	Gathering Selective XML indexes
+7/30/2016 3:39:40 PM	Gathering encrypted triggers
+7/30/2016 3:39:40 PM	Gathering triggers
+7/30/2016 3:39:40 PM	Gathering encrypted and clr ddl triggers
+7/30/2016 3:39:40 PM	Gathering ddl triggers
+7/30/2016 3:39:40 PM	Gathering synonyms
+7/30/2016 3:39:40 PM	Gathering defaults
+7/30/2016 3:39:40 PM	Gathering data constraint uddt bindings
+7/30/2016 3:39:40 PM	Gathering rules
+7/30/2016 3:39:40 PM	Gathering data constraint uddt bindings
+7/30/2016 3:39:40 PM	Gathering message types
+7/30/2016 3:39:40 PM	Gathering queues
+7/30/2016 3:39:40 PM	Gathering contracts
+7/30/2016 3:39:40 PM	Gathering services
+7/30/2016 3:39:40 PM	Gathering event notifications
+7/30/2016 3:39:40 PM	Gathering remote service bindings
+7/30/2016 3:39:40 PM	Gathering broker priorities
+7/30/2016 3:39:40 PM	Gathering signatures
+7/30/2016 3:39:40 PM	Gathering data compression options
+7/30/2016 3:39:40 PM	Gathering sequence types
+7/30/2016 3:39:40 PM	Gathering security policies
+7/30/2016 3:39:40 PM	Gather column encryption keys
+7/30/2016 3:39:40 PM	Gathering column master keys
+7/30/2016 3:39:40 PM	Gathering external data sources
+7/30/2016 3:39:40 PM	Gathering external tables
+7/30/2016 3:39:40 PM	Gathering extended properties
+7/30/2016 3:39:41 PM	Gathering logins
+7/30/2016 3:39:41 PM	Scanning project for duplicate elements
+7/30/2016 3:39:41 PM	Finished duplicate element processing
+7/30/2016 3:39:41 PM	Finished importing database.
+7/30/2016 3:39:41 PM	A summary of the import was saved to the following location: c:\users\scott\documents\visual studio 2015\Projects\IPGod\IPGod\Import Schema Logs\IPGod_20160730053811.log
+7/30/2016 3:39:41 PM	Click Finish to continue...
